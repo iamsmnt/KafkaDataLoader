@@ -1,0 +1,13 @@
+# .gitignore for Python virtual environment
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# pipenv
+Pipfile
+Pipfile.lock
+
+# virtualenv
+kafka_python_env/
